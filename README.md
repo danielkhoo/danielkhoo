@@ -15,10 +15,6 @@
   <a href="https://danieljkhoo.com">
    Blog
   </a>
- •
-  <a href="https://twitter.com/jadenkore">
-  Twitter
-  </a>
   • 
   <a href="https://www.linkedin.com/in/danieljkhoo/">
 LinkedIn
