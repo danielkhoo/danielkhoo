@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hello there, I'm Daniel 👋
 
-<!--
-**danielkhoo/danielkhoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div >
+<p align="center">
+<em>Associate Software Engineer at Open Government Products</em>
+</p>
+<p align="center">
+<em>AWS Certified Developer</em>
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://danieljkhoo.com">
+   Blog
+  </a>
+ •
+  <a href="https://twitter.com/jadenkore">
+  Twitter
+  </a>
+  • 
+  <a href="https://www.linkedin.com/in/danieljkhoo/">
+LinkedIn
+  </a> 
+</p>
+
+---
+
+I'm a fullstack web developer building products for public good. I work mainly with JavaScript, React, NextJS, Express applications. In my free time, I'm usually working on a side project, reading science fiction or watching B-grade action movies.
