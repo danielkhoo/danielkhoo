@@ -3,8 +3,8 @@
   <h1 align="center">
     <b>👋 Hello there, I'm Daniel</b>
   </h1>
-  <p align="center">
-    I'm a fullstack web developer building products for public good. I work mainly with JavaScript, React, NextJS, Express applications. In my free time, I'm usually working on a side project, reading science fiction or watching B-grade action movies.
+  <p align="center" width="300px">
+    I'm a software engineer building products for public good. I work mainly on fullstack web applications with React, Next, Express and AWS. In my free time, I'm usually working on a side project, reading science fiction or watching B-grade action movies.
   </p>
 </p>
 
