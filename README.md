@@ -1,7 +1,7 @@
 
 <p>
   <h1 align="center">
-    <b>Hello there, I'm Daniel👋</b>
+    <b>👋 Hello there, I'm Daniel</b>
   </h1>
   <p align="center">
     I'm a fullstack web developer building products for public good. I work mainly with JavaScript, React, NextJS, Express applications. In my free time, I'm usually working on a side project, reading science fiction or watching B-grade action movies.
