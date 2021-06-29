@@ -16,9 +16,6 @@
 
 -----
 <p align="center">
-  <a href="https://github.com/danielkhoo">
-    <img src="https://img.shields.io/badge/github-211F1F?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://danieljkhoo.com">
     <img src="https://img.shields.io/badge/blog-1BC?logo=next.js&logoColor=white&style=for-the-badge" />
   </a>
