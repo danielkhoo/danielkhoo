@@ -15,6 +15,6 @@ Built technology for public good [@opengovsg](https://github.com/opengovsg)
 
 [nric](https://www.npmjs.com/package/nric) - npm package for generating and validating Singapore NRIC
 
-[Scaffold Wallet](https://github.com/danielkhoo/scaffold-eth-react-native-wallet) - Forkable React Native Ethereum Wallet
+[Scaffold Wallet](https://github.com/buidlguidl/scaffold-wallet) - Forkable React Native Ethereum Wallet
 
 
